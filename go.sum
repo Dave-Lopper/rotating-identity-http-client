@@ -1,0 +1,6 @@
+github.com/gwitmond/gocontroltor v0.0.0-20170311210520-edf3aab8222f h1:LqjUn0SYbroWAbZqZyqoTveOdtbCtH8Xhl9e0bK2/h0=
+github.com/gwitmond/gocontroltor v0.0.0-20170311210520-edf3aab8222f/go.mod h1:iOaxTcwc5nbaIfGdUFQTp9fN+CXO7kDcA4gsEMnwJB0=
+github.com/gwitmond/textproto v0.0.0-20160320165018-e19f2dd0ddbc h1:L93v+V/5AmBxWMxesbP5bpsssAhB8TSiE3gSYk271o0=
+github.com/gwitmond/textproto v0.0.0-20160320165018-e19f2dd0ddbc/go.mod h1:xh+HSwD9WvtHLQ6oms3ei2oGt566mctjLuw+LqO5/9U=
+golang.org/x/net v0.37.0 h1:1zLorHbz+LYj7MQlSf1+2tPIIgibq2eL5xkrGk6f+2c=
+golang.org/x/net v0.37.0/go.mod h1:ivrbrMbzFq5J41QOQh0siUuly180yBYtLp+CKbEaFx8=
